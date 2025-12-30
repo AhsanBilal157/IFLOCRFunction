@@ -1,0 +1,30 @@
+# Do not include azure-functions-worker in this file
+# The Python Worker is managed by the Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+streamlit
+azure-ai-formrecognizer==3.3.3
+azure-ai-documentintelligence
+python-dotenv
+openai
+PyPDF2 
+python-docx
+langchain_groq
+langchain
+nltk 
+tiktoken
+python-dotenv
+pydantic
+platformdirs
+sqlalchemy
+requests
+pandas
+pydantic
+azure-storage-blob
+langchain-openai
+langchain_community
+langchain_openai
+dotenv
+langgraph
+pyppeteer
